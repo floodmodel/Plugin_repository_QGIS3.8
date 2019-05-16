@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="drainage" version="0.1.0">
+ <pyqgis_plugin name="Drainage" version="0.1.0">
   <description>Drainage Plugin</description>
   <about>Drainage-0.1.0</about>
   <version>0.1.0</version>
@@ -14,7 +14,7 @@
   <tags>drainage</tags>
  </pyqgis_plugin>
 
- <pyqgis_plugin name="cell_value_edit" version="0.1.0">
+ <pyqgis_plugin name=">DEM CELL EDIT" version="0.1.0">
   <description>DEM CELL EDIT Plugin</description>
   <about>DEM CELL EDIT</about>
   <version>0.1.0</version>
@@ -28,7 +28,7 @@
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
 
- <pyqgis_plugin name="multi_cell_edit" version="0.1.0">
+ <pyqgis_plugin name="MULTI CELL EDIT" version="0.1.0">
   <description>MULTI CELL EDIT Plugin</description>
   <about>MULTI CELL EDIT</about>
   <version>0.1.0</version>
