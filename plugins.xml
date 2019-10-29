@@ -5,10 +5,10 @@
   <about>Drainage-0.1.0</about>
   <version>0.1.0</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>http://github.com/floodmodel/repository_QGIS3.6</homepage>
+  <homepage>http://github.com/floodmodel/repository_QGIS3.8</homepage>
   <file_name>Drainage.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.6/master/Drainage/Drainage_v0.1.0.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.8/master/Drainage/Drainage_v0.1.0.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>drainage</tags>
@@ -19,10 +19,10 @@
   <about>DEM CELL EDIT</about>
   <version>0.1.0</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>https://github.com/floodmodel/repository_QGIS3.6</homepage>
+  <homepage>https://github.com/floodmodel/repository_QGIS3.8</homepage>
   <file_name>cell_value_edit.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.6/master/Cell value edit/cell_value_edit_v0.1.0.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.8/master/Cell value edit/cell_value_edit_v0.1.0.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
@@ -33,10 +33,10 @@
   <about>MULTI CELL EDIT</about>
   <version>0.1.1</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>https://github.com/floodmodel/repository_QGIS3.6</homepage>
+  <homepage>https://github.com/floodmodel/repository_QGIS3.8</homepage>
   <file_name>multi_cell_edit.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.6/master/Multi cell value edit/multi_cell_edit_v0.1.1.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.8/master/Multi cell value edit/multi_cell_edit_v0.1.1.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
