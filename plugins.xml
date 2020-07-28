@@ -13,8 +13,8 @@
   <deprecated>False</deprecated>
   <tags>drainage</tags>
  </pyqgis_plugin>
-<--!
- <pyqgis_plugin name="DEM CELL EDIT" version="0.1.0">
+
+// <pyqgis_plugin name="DEM CELL EDIT" version="0.1.0">
   <description>DEM CELL EDIT Plugin</description>
   <about>DEM CELL EDIT</about>
   <version>0.1.0</version>
