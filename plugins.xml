@@ -13,7 +13,7 @@
   <deprecated>False</deprecated>
   <tags>drainage</tags>
  </pyqgis_plugin>
-
+<--!
  <pyqgis_plugin name="DEM CELL EDIT" version="0.1.0">
   <description>DEM CELL EDIT Plugin</description>
   <about>DEM CELL EDIT</about>
@@ -41,4 +41,5 @@
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
+--!>
 </plugins>
