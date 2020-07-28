@@ -21,7 +21,7 @@
   <homepage>http://github.com/floodmodel/repository_QGIS3.8</homepage>
   <file_name>cell_editor_20200604.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.8/master/Cell%20editor/cell_editor_20200604.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.8/master/Cell editor/cell_editor_20200604.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>cell_editor</tags>
