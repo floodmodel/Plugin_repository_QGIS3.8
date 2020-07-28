@@ -13,7 +13,8 @@
   <deprecated>False</deprecated>
   <tags>drainage</tags>
  </pyqgis_plugin>
- <pyqgis_plugin name="Cell editor" version="0.1.0">
+ 
+ <pyqgis_plugin name="CellEditor" version="0.1.0">
   <description>Intergrated cell edit and multi cell edit Plugin</description>
   <about>Cell_editor_20200604</about>
   <version>0.1.0</version>
