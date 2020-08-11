@@ -28,7 +28,7 @@
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
  
-  <pyqgis_plugin name="G2D" version="0.1.0">
+ <pyqgis_plugin name="G2D" version="0.1.0">
   <description>G2D Plugin</description>
   <about>G2D</about>
   <version>0.1.0</version>
@@ -42,6 +42,19 @@
   <tags>g2d</tags>
  </pyqgis_plugin>
 
+ <pyqgis_plugin name="GRM" version="0.1.0">
+  <description>GRM Plugin</description>
+  <about>GRM</about>
+  <version>0.1.0</version>
+  <qgis_minimum_version>3.0</qgis_minimum_version>
+  <homepage>https://github.com/floodmodel/repository_QGIS3.8</homepage>
+  <file_name>grm.zip</file_name>
+  <author_name>KICT, Hermesys</author_name>
+  <download_url>https://raw.githubusercontent.com/floodmodel/repository_QGIS3.8/master/QGIS_GRM/grm_20200804.zip</download_url>
+  <experimental>True</experimental>
+  <deprecated>False</deprecated>
+  <tags>grm</tags>
+ </pyqgis_plugin>
  
 <!--
  <pyqgis_plugin name="DEM CELL EDIT" version="0.1.0">
