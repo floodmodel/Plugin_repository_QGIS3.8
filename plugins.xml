@@ -28,10 +28,10 @@
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="G2D" version="0.1.0">
+ <pyqgis_plugin name="G2D" version="0.1">
   <description>G2D Plugin</description>
   <about>G2D</about>
-  <version>0.1.0</version>
+  <version>0.1</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/repository_QGIS3.8</homepage>
   <file_name>g2d.zip</file_name>
